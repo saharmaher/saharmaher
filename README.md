@@ -1,11 +1,11 @@
-                                                          ## Hi there, I'm sahar maher  👋
+                                                           Hi there, I'm sahar maher  👋
 
 
-🎓 Fresh Computer Engineering graduate from Zagazig University  
-💡 Passionate about Artificial Intelligence, Machine Learning, and Data Science  
-🌐 Internships: Digital Egypt Builders (DEBI), DEPI, NTI  
-🚀 Projects: Smart Shopping Cart with object detection, Sentiment Analysis (LSTM), Image recognetion (CNN)  
-📚 Skills: Python(numpy, matblotlip, sklearn, pandas,pytourch, tensorflow, scipy, keras, yolov8, nltk ) , Machine Learning , Deep Learning ,Statistics, Mathematics,  Computer Vision , NLP , SQL , AWS  
+## 🎓 Fresh Computer Engineering graduate from Zagazig University  
+## 💡 Passionate about Artificial Intelligence, Machine Learning, and Data Science  
+## 🌐 Internships: Digital Egypt Builders (DEBI), DEPI, NTI  
+## 🚀 Projects: Smart Shopping Cart with object detection, Sentiment Analysis (LSTM), Image recognetion (CNN)  
+## 📚 Skills: Python(numpy, matblotlip, sklearn, pandas,pytourch, tensorflow, scipy, keras, yolov8, nltk ) , Machine Learning , Deep Learning ,Statistics, ## Mathematics,  Computer Vision , NLP , SQL , AWS  
 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahar-maher-a11371267/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:saharmah3r@gmail.com)
