@@ -1,7 +1,5 @@
-                                                                             ## Hi there, I'm sahar maher  👋
+                                                          ## Hi there, I'm sahar maher  👋
 
-<!--
-**saharmaher/saharmaher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🎓 Fresh Computer Engineering graduate from Zagazig University  
 💡 Passionate about Artificial Intelligence, Machine Learning, and Data Science  
@@ -33,4 +31,4 @@
 - AWS Cloud Architecting
 
 Thanks for visiting my profile! 😊
--->
+
