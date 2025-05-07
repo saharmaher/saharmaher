@@ -19,7 +19,7 @@
 ### 📌 Featured Projects
 
 - [Smart Shopping Cart 🛒](https://github.com/saharmaher/Smart-shopping-cart-using-object-detection-and-flask-web-app)
-- [Arabic Sentiment Analysis 💬]([https://github.com/saharmaher/DEBI/blob/main/nlp-s.ipynb])
+- [Arabic Sentiment Analysis 💬](https://github.com/saharmaher/DEBI/blob/main/nlp-s.ipynb)
 - [Smile or Not 😄](https://github.com/saharmaher/AI-Projects/blob/main/smile-or-not-cnn.ipynb)
 - [My AI Projects](https://github.com/saharmaher/AI-Projects)
 - [DEBI Projects](https://github.com/saharmaher/DEBI/tree/main)
